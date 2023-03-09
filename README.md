@@ -8,6 +8,3 @@ This script is quite dangerous with a weak computer, so we are not responsible f
 ```bash
 python main.py
 ```
-
-## License (c)
-- **[MIT License](https://github.com/Narngisa/loop-open-webbrowser/blob/main/LICENSE)**
